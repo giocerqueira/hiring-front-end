@@ -24,5 +24,3 @@
    ```
    npm run dev
    ```
-
-## Acesse o deploy do site <a href="hiring-front-end-eight.vercel.app" target="blank-">AQUI</a>
