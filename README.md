@@ -17,10 +17,14 @@
    ```
 3. Instale as dependências:
    ```
-   npm install
+   npm install react-router-dom // instalando o react-router-dom para o funcionamento das rotas do site
+   npm install axios // instalando o axios
+   npm install styled-components // instalando a estilização
    ```
 
 4. Inicie o servidor de desenvolvimento:
    ```
    npm run dev
    ```
+
+## Você também consegue visualizar o deploy no <a href="https://hiring-front-end-58g3.vercel.app/" target="_blank">Vercel!</a>
