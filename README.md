@@ -17,9 +17,7 @@
    ```
 3. Instale as dependências:
    ```
-   npm install react-router-dom // instalando o react-router-dom para o funcionamento das rotas do site
-   npm install axios // instalando o axios
-   npm install styled-components // instalando a estilização
+   npm install
    ```
 
 4. Inicie o servidor de desenvolvimento:
